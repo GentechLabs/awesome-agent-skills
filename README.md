@@ -270,6 +270,9 @@ Official skills for ML workflows.
 #### Skills by Remotion
 - [remotion-dev/remotion](https://agent-skill.co/remotion-dev/skills/remotion) - Programmatic video creation with React
 
+#### Skills by Orkas-AI
+- [Orkas-AI/video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router) - Route video requests through planning, editing, generation, assembly, and validation workflows
+
 #### Skills by DuckDB
 - [duckdb/attach-db](https://agent-skill.co/duckdb/skills/attach-db) - Attach a DuckDB database file for interactive querying
 - [duckdb/query](https://agent-skill.co/duckdb/skills/query) - Run SQL queries against attached databases or ad-hoc files
